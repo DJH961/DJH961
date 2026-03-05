@@ -22,7 +22,7 @@
 - 🧭 I help teams turn **data + AI** into measurable outcomes—responsibly and repeatably.
 - 🧪 Current interests: **Copilot/AI agents**, **process mining**, and **RL environments** for policy/econ simulations (EU ETS).
 - 💼 Currently contributing at **Microsoft** in Denmark (student/working-student capacity); previously **ex‑Celonis** (process mining).
-- 🎓 M.Sc. in Data Science (CBS) • EN/DE speaker • based in Copenhagen.
+- 🎓 M.Sc. in Data Science (CBS) • B.Sc. in Mathematics (TUM) • EN/DE speaker
 
 ### 🛠️ Toolbox
 <p>

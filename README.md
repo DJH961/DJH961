@@ -44,10 +44,6 @@
 <details>
 <summary>📈 GitHub stats</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DJH961&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJH961&layout=compact&theme=transparent" alt="Top languages">
-  <br>
   <img src="https://streak-stats.demolab.com?user=DJH961&theme=transparent" alt="GitHub streak">
 </p>
 </details>
